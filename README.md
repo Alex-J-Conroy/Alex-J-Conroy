@@ -16,20 +16,25 @@ I’ve completed a Master of Data Analytics at QUT and worked across the educati
 
 ## 🛠️ Currently Working On
 
-**🧩 Agentic PDF-to-Text Converter for Accessibility**
-
-I'm currently developing a layout-preserving, agent-based PDF converter that can:
-- Extract and restructure math-heavy, image-rich documents  
-- Support visually impaired students through accessible formats  
-- Use layout-aware segmentation and lightweight task agents  
-
-**🔍 Learning Focus:**
-- Advanced PDF parsing and layout modeling  
-- Agentic task chaining (OpenAI / LangChain Agents)  
-- Modular AI pipelines  
-- Clean UX for technical assistive tooling
+### 🧩 Agentic PDF-to-Text Converter for Accessibility  
+Building a layout-preserving, AI-assisted PDF converter that transforms complex academic material—including mathematical content, diagrams, and tables—into accessible formats for visually impaired students.  
+**Tech Focus:** layout-aware segmentation · math parsing · multimodal content structuring · modular agent-based workflows  
+**Learning Focus:** LangChain/OpenAI Agents · PDF layout modeling · Assistive UX pipelines · Math OCR and accessibility standards
 
 ---
+
+### 🐟 Billy Bass AI Voice Interface (Edge AI Prototype)  
+Developing an AI-powered, voice-interactive version of Billy Big Mouth Bass using on-device TinyML and a cloud-optional voice synthesis pipeline. This project explores multimodal AI interface design, natural language control, and real-time audio response on low-power hardware.  
+**Tech Focus:** TinyML · Edge AI · Audio I/O · Embedded Python (Arduino)  
+**Learning Focus:** Speech-to-AI agent flows · Audio synthesis · Cloud/offline agent design · On-device performance constraints
+
+---
+
+### 🏫 Australian Education Data Dashboard  
+Creating an open-source dashboard that maps school catchments, feeder networks, and educational outcomes across Australia. Designed for policymakers, parents, and planners to better understand geographic and demographic impacts on access and performance.  
+**Tech Focus:** Geospatial analytics · Dashboarding · Public data pipelines  
+**Learning Focus:** Interactive insight design · Streamlit/Dash · Data storytelling for public-sector decision support
+
 
 ## 🔎 Exploring Next
 
