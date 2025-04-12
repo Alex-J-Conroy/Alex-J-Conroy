@@ -21,14 +21,12 @@ Building a layout-preserving, AI-assisted PDF converter that transforms complex 
 **Tech Focus:** layout-aware segmentation · math parsing · multimodal content structuring · modular agent-based workflows  
 **Learning Focus:** LangChain/OpenAI Agents · PDF layout modeling · Assistive UX pipelines · Math OCR and accessibility standards
 
----
 
 ### 🐟 Billy Bass AI Voice Interface (Edge AI Prototype)  
 Developing an AI-powered, voice-interactive version of Billy Big Mouth Bass using on-device TinyML and a cloud-optional voice synthesis pipeline. This project explores multimodal AI interface design, natural language control, and real-time audio response on low-power hardware.  
 **Tech Focus:** TinyML · Edge AI · Audio I/O · Embedded Python (Arduino)  
 **Learning Focus:** Speech-to-AI agent flows · Audio synthesis · Cloud/offline agent design · On-device performance constraints
 
----
 
 ### 🏫 Australian Education Data Dashboard  
 Creating an open-source dashboard that maps school catchments, feeder networks, and educational outcomes across Australia. Designed for policymakers, parents, and planners to better understand geographic and demographic impacts on access and performance.  
@@ -49,7 +47,7 @@ I'm beginning to explore the intersection of **AI, data security, and edge-devic
 
 This aligns with a future interest in contributing to early-stage data products that serve regulated sectors like healthcare, defence, or finance.
 
-
+---
 
 ## 🏆 Featured Projects
 
