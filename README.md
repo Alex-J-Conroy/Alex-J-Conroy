@@ -55,7 +55,7 @@ This aligns with a future interest in contributing to early-stage data products 
 | [**MLB Stats Dashboard**](https://github.com/Alex-J-Conroy/mlb-dashboard) | Interactive Dash app to explore baseball team & player performance |
 | [**Traffic Stop Fairness Analysis**](https://github.com/Alex-J-Conroy/us-traffic-stop-analysis) | Spatial and statistical fairness modeling using SOP data |
 | [**Workplace Injury EDA**](https://github.com/Alex-J-Conroy/workplace-injury-analysis) | RMarkdown-based EDA on occupational injury patterns |
-| [**ML Model Comparison**]([https://github.com/Alex-J-Conroy/comparison-of-ML-approaches) | CNN, SVM, and Naive Bayes benchmarked on Caltech256 dataset |
+| [**ML Model Comparison**](https://github.com/Alex-J-Conroy/comparison-of-ML-approaches) | CNN, SVM, and Naive Bayes benchmarked on Caltech256 dataset |
 
 ---
 
